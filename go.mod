@@ -1,4 +1,4 @@
-module xk6-output-logger
+module github.com/boskiv/xk6-output-logger
 
 go 1.20
 
